@@ -5,4 +5,14 @@
 
 3. Git status 查看仓库状态
 
-4 git add 将文件放入暂存区
+4 git add 将文件放入暂存区 
+
+//5.Git checkout 将文件还原成缓存区状态
+如果你修改改错了
+
+5.git commit -m "尝试修改" 项目名字
+
+6 git remote add origin https://github.com/Sor-feng/feng1
+上传到网站
+
+7.git push -u origin master
